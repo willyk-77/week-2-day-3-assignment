@@ -1,0 +1,14 @@
+#text-card {
+  width: 50%;
+}
+#text-card h4 {
+  text-align: center;
+}
+
+/* -------------------------------------------------------- */
+.error {
+  border: 1px solid rgba(red, 0.5);
+}
+.success {
+  border: 1px solid rgba(green, 0.5);
+}
